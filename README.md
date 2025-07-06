@@ -1,7 +1,7 @@
 
 ---
 
-# 🔐 Nonim - Blockchain Wallet Generator
+# 🔐 GenWallet - Blockchain Wallet Generator
 
 A sleek multi-chain wallet generator (Solana & Ethereum) built with **Next.js**, **TailwindCSS + daisyUI**, **web3.js**, **ethers.js**, and **BIP39**. Securely generate, import, and manage HD wallets in your browser — no backend needed.
 
